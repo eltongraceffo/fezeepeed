@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://egeethaid.calminghappykids.com/sitemap.xml
